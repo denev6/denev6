@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denev6&layout=compact)](https://github.com/denev6/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denev6&layout=compact)](https://github.com/Denev6?tab=repositories)
 
 ---
   🎓 `성균관대 인공지능융합학과` 재학 중  
