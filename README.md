@@ -5,7 +5,7 @@
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> 
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
 <br />
-<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/> 
+<img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
 <img alt="Vue.js" src="https://img.shields.io/badge/Vue-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=black"/> 
 </p>
 <br />
