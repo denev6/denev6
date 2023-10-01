@@ -28,11 +28,11 @@ RoBERTa를 활용한 감정 분석
 
 ## NOTES
 
-<a href="https://denev6.tistory.com/" target="_blank"><img alt="NOTES-logo" src="./notes-32x32.png"/></a>
+<a href="https://denev6.tistory.com/" target="_blank"><img alt="NOTES-logo" src="./notes-64x64.png"/></a>
 
-`NOTES`는 제가 작성한 블로그입니다. 주요 내용으로는 ...
+"NOTES"는 제가 작성한 블로그입니다. 주요 내용으로는 ...
 
-`NOTES` is my blog that I wrote about ... 
+"NOTES" is my blog that I wrote about ... 
 
 `Python` `Go` `ML/DL` `Projects` `Data-Structure` `Algorithm`
 
