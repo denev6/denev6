@@ -4,7 +4,7 @@
 <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denev6&layout=compact&theme=vision-friendly-light)](https://github.com/Denev6)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denev6&layout=compact&langs_count=8)](https://github.com/Denev6)
 
 
 ## Projects
