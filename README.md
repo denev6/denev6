@@ -4,7 +4,7 @@
 <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denev6&layout=compact&langs_count=8)](https://github.com/Denev6)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denev6&layout=compact&langs_count=8&hide=html,css,ruby)](https://github.com/Denev6)
 
 
 ## Projects
@@ -28,12 +28,12 @@ RoBERTa를 활용한 감정 분석
 
 ## NOTES
 
-<a href="https://denev6.tistory.com/" target="_blank"><img alt="NOTES-logo" src="./notes-64x64.png"/></a>
+<a href="https://denev6.github.io/" target="_blank"><img alt="NOTES-logo" src="./notes-64x64.png"/></a>
 
-"NOTES"는 제가 작성한 블로그입니다. 주요 내용으로는 ...
+"Jin's Notes"는 제가 작성한 블로그입니다. 주요 내용으로는 ...
 
-"NOTES" is my blog that I wrote about ... 
+"Jin's Notes" is my blog that I wrote about ... 
 
 `Python` `Go` `ML/DL` `Projects` `Data-Structure` `Algorithm`
 
-URL : [티스토리_Denev6](https://denev6.tistory.com/)
+URL : [denev6.github.io](https://denev6.github.io/)
