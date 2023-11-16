@@ -11,19 +11,19 @@
 
 얼굴 인식과 Pyautogui 마우스 제어 기반의 비접촉식 입력 기법
 - Alternative Input Method Using Real-Time Face Recognition
-- `Github` [/face-mouse-control](https://github.com/Denev6/face-mouse-control)
+- `Github` [/face-mouse-control](https://github.com/denev6/face-mouse-control)
 - `Paper` [Non-contact Input Method...](http://koreascience.or.kr/article/JAKO202228049092231.page)
 
 
 RoBERTa를 활용한 감정 분석
 - Emotion Classification using RoBERTa
-- `Github` [/practice/transformer](https://github.com/Denev6/practice/tree/main/transformer)
+- `Github` [/archive/transformer](https://github.com/denev6/archive/tree/main/transformer)
 - `Awards` [2nd; DACON](https://dacon.io/competitions/official/236027/leaderboard?selected=awards) 
 
 
 백준 자료구조/알고리즘 문제 풀이
 - Solving Data-structure & Algorithm problems
-- `Github` [/baekjoon](https://github.com/Denev6/baekjoon)
+- `Github` [/baekjoon](https://github.com/denev6/baekjoon)
 
 
 ## NOTES
@@ -31,8 +31,6 @@ RoBERTa를 활용한 감정 분석
 <a href="https://denev6.github.io/" target="_blank"><img alt="NOTES-logo" src="./notes-64x64.png"/></a>
 
 "Jin's Notes"는 제가 작성한 블로그입니다. 주요 내용으로는 ...
-
-"Jin's Notes" is my blog that I wrote about ... 
 
 `Python` `Go` `ML/DL` `Projects` `Data-Structure` `Algorithm`
 
