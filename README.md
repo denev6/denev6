@@ -17,15 +17,15 @@ RoBERTa를 활용한 감정 분석
 
 "Jin's Notes"는 제가 작성한 블로그입니다. ML, DL, 자료구조-알고리즘 등 학습 기록을 남깁니다.
 
-Github Blog : [denev6.github.io](https://denev6.github.io/)
-Tistory(원본) : [denev6.tistory](https://denev6.tistory.com/)
+- Github Blog : [denev6.github.io](https://denev6.github.io/)
+- Tistory(원본) : [denev6.tistory](https://denev6.tistory.com/)
 
 
 ## Languages
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
 <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/> 
-<img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white"/> 
+<img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denev6&layout=compact&langs_count=8&hide=html,css,ruby,vbscript,shell)](https://github.com/Denev6)
