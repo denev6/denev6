@@ -28,4 +28,4 @@ RoBERTa를 활용한 감정 분석
 <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denev6&layout=compact&langs_count=8&hide=html,css,ruby,vbscript,shell)](https://github.com/Denev6)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denev6&size_weight=0&count_weight=1&langs_count=8&hide=html,css,ruby,vbscript,shell)](https://github.com/Denev6)
