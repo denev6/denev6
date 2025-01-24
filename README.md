@@ -23,9 +23,12 @@ RoBERTa를 활용한 감정 분석
 
 ## Languages
 <p>
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
-<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/> 
-<img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"/> 
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat&logo=PyTorch&logoColor=white"/> 
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat&logo=OpenCV&logoColor=white"/> 
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white"/> 
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?&style=flat&logo=Go&logoColor=white"/> 
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white"/> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denev6&size_weight=0&count_weight=1&langs_count=8&hide=html,css,ruby,vbscript,shell)](https://github.com/Denev6)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denev6&size_weight=0&count_weight=1&langs_count=8&hide=html,css,ruby,vbscript,shell,scss,vue)](https://github.com/Denev6)
