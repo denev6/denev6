@@ -1,20 +1,20 @@
 ## Projects
 
-🖱️ **Assistive Mouse Control Through Face Detection: Enhancing Web Accessibility for Users with Limited Upper Limb Mobility**
-- Real-time processing of facial landmarks and detection of eye blinks
+🖱️ **Assistive Mouse Control Through Face Detection**
+- Enhancing Web Accessibility for Users with Limited Upper Limb Mobility
+- Real-time facial landmark tracking and eye blink detection
 - README: [face-mouse-control](https://github.com/denev6/face-mouse-control)
-- Paper: [얼굴 인식과 Pyautogui 마우스 제어 기반의 비접촉식 입력 기법](http://koreascience.or.kr/article/JAKO202228049092231.page)
+- Paper: [한국정보통신학회논문지](https://koreascience.or.kr/article/JAKO202228049092231.page)
+- Blog: [얼굴 인식을 이용한 마우스 제어](https://denev6.github.io/projects/2022/10/07/face-mouse-control.html)
 
 🧠 **Children ADHD detection with EEG signal**
 - Design and training of a Vision Transformer architecture for signal analysis
 - README: [ADHD-EEG-Vit](https://github.com/denev6/ADHD-EEG-ViT)
-- Blog: [EEG 신호를 활용한 청소년 ADHD 진단](https://github.com/denev6/ADHD-EEG-ViT)
+- Blog: [EEG 신호를 활용한 청소년 ADHD 진단](https://denev6.github.io/projects/2025/03/05/eeg-transformer.html)
 
 🐕 A Retrieval-Augmented Generation Chatbot for School Notice Search Utilizing ChatGPT: [README](https://github.com/denev6/retrieve-notice)
 
 😊 Speech Emotion Recognition using Fine-tuned RoBERTa: [Code](https://github.com/denev6/deep-learning-codes/tree/main/roberta)
-
-⚡️ Deploying Deep Learning Models with FastAPI and SvelteKit: [Code](https://github.com/denev6/serve-models)
 
 ## Blog
 
