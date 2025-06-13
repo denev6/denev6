@@ -12,9 +12,9 @@
 - README: [ADHD-EEG-Vit](https://github.com/denev6/ADHD-EEG-ViT)
 - Blog: [EEG 신호를 활용한 청소년 ADHD 진단](https://denev6.github.io/projects/2025/03/05/eeg-transformer.html)
 
-🐕 A Retrieval-Augmented Generation Chatbot for School Notice Search: [README](https://github.com/denev6/retrieve-notice)
+⚖️ LLM Bias Mitigation using Prompt Engineering in Korean: [README](https://github.com/denev6/Bias-A-Thon)
 
-😊 Speech Emotion Recognition using Fine-tuned RoBERTa: [Code](https://github.com/denev6/deep-learning-codes/tree/main/roberta)
+🐕 A Retrieval-Augmented Generation Chatbot for School Notice Search: [README](https://github.com/denev6/retrieve-notice)
 
 ## Blog
 
