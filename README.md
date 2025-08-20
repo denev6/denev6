@@ -18,19 +18,21 @@
 
 ## Blog
 
-<a href="https://denev6.github.io/" target="_blank"><img alt="NOTES-logo" src="./notes-64x64.png"/></a>
+<!--<a href="https://denev6.github.io/" target="_blank"><img alt="NOTES-logo" src="./notes-64x64.png"/></a> -->
 
 My journey through machine learning, sharing insights from paper reviews, project experiences.
 
-Link: [https://denev6.github.io](https://denev6.github.io)
+Link: [denev6.github.io](https://denev6.github.io)
 
 ## Tech Stack
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"/> 
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?&style=flat&logo=Go&logoColor=white"/> 
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat&logo=PyTorch&logoColor=white"/> 
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat&logo=OpenCV&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white"/> 
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C.svg?&style=flat&logo=LangChain&logoColor=white"/>
+  <!--<img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white"/> -->
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white"/> 
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"/>
 </p>
