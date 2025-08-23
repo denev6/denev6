@@ -37,4 +37,4 @@ Link: [denev6.github.io](https://denev6.github.io)
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denev6&size_weight=0&count_weight=1&langs_count=8&hide=html,css,ruby,vbscript,shell,scss,vue)](https://github.com/denev6)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denev6&size_weight=0&count_weight=1&langs_count=8&hide=html,css,ruby,vbscript,shell,scss,vue,batchfile,dockerfile)](https://github.com/denev6)
