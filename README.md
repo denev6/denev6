@@ -1,3 +1,44 @@
+## Tech Stack
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="60" alt="langchain logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="60" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+</div>
+
+## Social Media
+
+> I am an undergraduate majoring in Artificial Intelligence. While I value theoretical knowledge, I find greater fulfillment in building and deploying real-world services. I enjoy quickly learning new technologies and applying them to solve practical problems.
+
+<div>
+  <a href="https://denev6.github.io" target="_blank" style="text-decoration:none !important;">
+    <img src="https://github.com/denev6/denev6/blob/main/notes-64x64.png" width="40" height="40" alt="blog logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/denev6" target="_blank" style="text-decoration:none !important;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  </div>
+
 ## Projects
 
 🖱️ **Assistive Mouse Control Through Face Detection**
@@ -13,28 +54,3 @@
 - Blog: [EEG 신호를 활용한 청소년 ADHD 진단](https://denev6.github.io/projects/2025/03/05/eeg-transformer.html)
 
 ⚖️ LLM Bias Mitigation using Prompt Engineering in Korean: [README](https://github.com/denev6/Bias-A-Thon)
-
-🐕 A Retrieval-Augmented Generation Chatbot for School Notice Search: [README](https://github.com/denev6/retrieve-notice)
-
-## Blog
-
-<!--<a href="https://denev6.github.io/" target="_blank"><img alt="NOTES-logo" src="./notes-64x64.png"/></a> -->
-
-My journey through machine learning, sharing insights from paper reviews, project experiences.
-
-Link: [denev6.github.io](https://denev6.github.io)
-
-## Tech Stack
-
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"/> 
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?&style=flat&logo=Go&logoColor=white"/> 
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat&logo=PyTorch&logoColor=white"/> 
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat&logo=OpenCV&logoColor=white"/>
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C.svg?&style=flat&logo=LangChain&logoColor=white"/>
-  <!--<img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white"/> -->
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white"/> 
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"/>
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denev6&size_weight=0&count_weight=1&langs_count=8&hide=html,css,ruby,vbscript,shell,scss,vue,batchfile,dockerfile)](https://github.com/denev6)
