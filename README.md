@@ -34,8 +34,7 @@
 - Enhancing Web Accessibility for Users with Limited Upper Limb Mobility
 - Real-time facial landmark tracking and eye blink detection
 - README: [face-mouse-control](https://github.com/denev6/face-mouse-control)
-- Paper: [한국정보통신학회논문지](https://koreascience.or.kr/article/JAKO202228049092231.page)
-- Blog: [얼굴 인식을 이용한 마우스 제어](https://denev6.github.io/projects/2022/10/07/face-mouse-control.html)
+- Blog: [얼굴 인식을 이용한 마우스 제어](https://denev6.github.io/projects/2025/05/22/facemouse.html)
 
 🧠 **Children ADHD detection with EEG signal**
 - Design and training of a Vision Transformer architecture for signal analysis
