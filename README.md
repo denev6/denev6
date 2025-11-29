@@ -1,14 +1,14 @@
-## Tech Stack
+## Skills
 
 <p align="center">
   <img width="60" alt="Python Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;&nbsp;
   <img width="60" alt="Go Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">&nbsp;&nbsp;
-  <img width="60" alt="TypeScript Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">&nbsp;&nbsp;
-  <img width="60" alt="C++ Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">&nbsp;&nbsp;
+  <!--<img width="60" alt="TypeScript Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">&nbsp;&nbsp;-->
+  <!--<img width="60" alt="C++ Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">&nbsp;&nbsp;-->
   <img width="60" alt="PyTorch Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">&nbsp;&nbsp;
   <img width="60" alt="LangChain Logo" src="https://cdn.simpleicons.org/langchain/1C3C3C">&nbsp;&nbsp;
   <img width="60" alt="FastAPI Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">&nbsp;&nbsp;
-  <img width="60" alt="NumPy Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">&nbsp;&nbsp;
+  <!--<img width="60" alt="NumPy Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">&nbsp;&nbsp;-->
   <img width="60" alt="OpenCV Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">&nbsp;&nbsp;
   <img width="60" alt="Ubuntu Logo" src="https://cdn.simpleicons.org/ubuntu/E95420">&nbsp;&nbsp;
   <img width="60" alt="Git Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp;&nbsp;
@@ -17,16 +17,10 @@
 
 ## Social Media
 
-> I am an undergraduate majoring in Artificial Intelligence. While I value theoretical knowledge, I find greater fulfillment in building and deploying real-world services. I enjoy quickly learning new technologies and applying them to solve practical problems.
+I am an undergraduate majoring in Artificial Intelligence. While I value theoretical knowledge, I find greater fulfillment in building and deploying real-world services. I enjoy quickly learning new technologies and applying them to solve practical problems.
 
-<div>
-  <a href="https://denev6.github.io" target="_blank">
-    <img src="https://github.com/denev6/denev6/blob/main/notes-64x64.png" width="40" height="40" alt="blog logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/denev6" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  </div>
+- 🧪 Blog: [denev6.github.io](https://denev6.github.io)
+- 💼 Linkedin: [denev6](https://www.linkedin.com/in/denev6)
 
 ## Projects
 
