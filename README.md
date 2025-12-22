@@ -4,7 +4,7 @@ I’m an AI undergraduate focused on building and deploying real-world services.
 
 I'm interested in...
 
-- RL & Agent
+- Agent & Reasoning
 - MLOps
 
 🧪 More details on my blog: [denev6.github.io](https://denev6.github.io/about/)
@@ -22,8 +22,8 @@ I'm interested in...
   <img width="60" alt="LangGraph Logo" src="https://cdn.simpleicons.org/langgraph/1C3C3C">&nbsp;&nbsp;
   <img width="60" alt="OpenCV Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">&nbsp;&nbsp;
   <img width="60" alt="FastAPI Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">&nbsp;&nbsp;
-  <img width="60" alt="Sveltekit Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg">&nbsp;&nbsp;
-  <img width="60" alt="Kafka Logo" src="https://cdn.simpleicons.org/apachekafka/278dd6">&nbsp;&nbsp;
+  <!--<img width="60" alt="Sveltekit Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg">&nbsp;&nbsp;-->
+  <!--<img width="60" alt="Kafka Logo" src="https://cdn.simpleicons.org/apachekafka/278dd6">&nbsp;&nbsp;-->
   <img width="60" alt="Ubuntu Logo" src="https://cdn.simpleicons.org/ubuntu/E95420">&nbsp;&nbsp;
   <img width="60" alt="Git Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp;&nbsp;
   <img width="60" alt="Docker Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
