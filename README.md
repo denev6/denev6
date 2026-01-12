@@ -4,8 +4,9 @@ I’m an AI undergraduate focused on building and deploying real-world services.
 
 I'm interested in...
 
-- Agent & Reasoning
-- MLOps
+- Computer Vision
+- Agent
+- Reasoning
 
 🧪 More details on my blog: [denev6.github.io](https://denev6.github.io/about/)
 
