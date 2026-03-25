@@ -1,12 +1,6 @@
 # Hi there, I'm Sungjin Park! 👋
 
-I’m an AI undergraduate focused on building and deploying real-world services. I enjoy quickly learning new technologies and turning them into practical solutions.
-
-I'm interested in...
-
-- Computer Vision
-- Agent
-- Reasoning
+I study AI Engineering with a focus on Computer Vision.
 
 🧪 More details on my blog: [denev6.github.io](https://denev6.github.io/about/)
 
@@ -27,5 +21,6 @@ I'm interested in...
   <!--<img width="60" alt="Kafka Logo" src="https://cdn.simpleicons.org/apachekafka/278dd6">&nbsp;&nbsp;-->
   <img width="60" alt="Ubuntu Logo" src="https://cdn.simpleicons.org/ubuntu/E95420">&nbsp;&nbsp;
   <img width="60" alt="Git Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp;&nbsp;
-  <img width="60" alt="Docker Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img width="60" alt="Docker Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">&nbsp;&nbsp;
+  <img width="60" alt="ClaudeCode Logo" src="https://cdn.simpleicons.org/claude/D97757">
 </p>
