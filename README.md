@@ -1,10 +1,10 @@
 # Hi there, I'm Sung-jin Park! 👋
 
-I'm *Jin*, an AI research engineer building production-grade AI systems for real-world environments.
+I'm *Jin*, an AI research engineer interested in LLM memory and reasoning.
 
 If you'd like to learn more about my background and ongoing work, feel free to explore the links below.
 
-- 🌐 Website: [/research](https://sungjin-code.github.io/research/)
+- 🌐 Website: [sungjin-code.github.io](https://sungjin-code.github.io/)
 - 💼 LinkedIn: [@sungjin-code](https://www.linkedin.com/in/sungjin-code/)
 - 📝 Korean Blog: [/posts](https://sungjin-code.github.io/posts/)
 
@@ -21,7 +21,7 @@ If you'd like to learn more about my background and ongoing work, feel free to e
   <img width="60" alt="Huggingface Logo" src="https://cdn.simpleicons.org/huggingface/FFD21E">&nbsp;&nbsp;
   <!--<img width="60" alt="NumPy Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">&nbsp;&nbsp;-->
   <img width="60" alt="LangChain Logo" src="https://cdn.simpleicons.org/langchain/1C3C3C">&nbsp;&nbsp;
-  <img width="60" alt="OpenCV Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">&nbsp;&nbsp;
+  <!--<img width="60" alt="OpenCV Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">&nbsp;&nbsp;-->
   <img width="60" alt="FastAPI Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">&nbsp;&nbsp;
   <!--<img width="60" alt="Sveltekit Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg">&nbsp;&nbsp;-->
   <!--<img width="60" alt="Kafka Logo" src="https://cdn.simpleicons.org/apachekafka/278dd6">&nbsp;&nbsp;-->
